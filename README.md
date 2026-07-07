@@ -1,15 +1,29 @@
-# 📊 Asignación Académica en LaTeX
+<div align="center">
+  <img src="enlace-a-tu-gif-animado.gif" width="800" alt="Vista previa del documento">
+  <br><br>
 
-Este repositorio contiene el código fuente y el documento final de mi asignación universitaria. El trabajo está desarrollado íntegramente en **LaTeX** para asegurar una presentación impecable, especialmente en la estructuración académica y la formulación de modelos matemáticos.
-
-### 📁 Archivos del Proyecto
-* 📄 `documento.tex`: Código fuente original con toda la estructura, ecuaciones y desarrollo del análisis.
-* 📕 **`documento.pdf`**: Versión final compilada. Puedes hacer clic directamente en este archivo para leer el informe completo desde el navegador.
-
-### 🎯 Temáticas Abordadas en el Documento
-* **Desarrollo de Modelos:** [Ej: Planteamiento de variables y restricciones].
-* **Resolución:** [Ej: Aplicación del método Simplex y optimización de recursos].
-* **Interpretación:** Conclusiones estratégicas enfocadas en la toma de decisiones para la administración.
+  <h1>Análisis y Modelos Cuantitativos</h1>
+  <p><i>Asignación Académica Desarrollada en LaTeX</i></p>
+</div>
 
 ---
-*Desarrollado por Anghelo Támara Ramírez*
+
+### Sobre el Documento
+
+Este repositorio contiene el código fuente y la versión final de la investigación. El trabajo fue estructurado íntegramente en LaTeX, alejándose de los procesadores de texto tradicionales para garantizar un rigor académico absoluto y una precisión visual impecable en la formulación matemática.
+
+### Estructura del Repositorio
+
+[ .tex ] — Código fuente original con la maquetación y desarrollo del análisis.
+[ .pdf ] — Documento final compilado y listo para lectura.
+
+### Ejes de Investigación
+
+* Planteamiento de variables y restricciones del modelo.
+* Desarrollo y resolución analítica.
+* Interpretación de resultados enfocados en la toma de decisiones para la administración.
+
+---
+<div align="center">
+  <p>Desarrollado por <b>Anghelo Támara Ramírez</b></p>
+</div>
